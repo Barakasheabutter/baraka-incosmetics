@@ -200,16 +200,6 @@ export default function App() {
             Explore Baraka
           </a>
         </div>
-
-        <div className="mx-auto mt-10 max-w-3xl rounded-[2rem] border border-white/10 bg-white/5 p-6 text-left">
-          <p className="text-sm uppercase tracking-[0.22em] text-yellow-300">Before you publish</p>
-          <div className="mt-4 grid gap-3 text-sm text-neutral-300 md:grid-cols-2">
-            <div className="rounded-2xl border border-white/10 bg-neutral-950/70 p-4">Replace the WhatsApp placeholder with your live business number.</div>
-            <div className="rounded-2xl border border-white/10 bg-neutral-950/70 p-4">Add your stand or booth number once confirmed.</div>
-            <div className="rounded-2xl border border-white/10 bg-neutral-950/70 p-4">Swap the Calendly placeholder for your booking link.</div>
-            <div className="rounded-2xl border border-white/10 bg-neutral-950/70 p-4">Add Baraka product and origin imagery for a stronger buyer impression.</div>
-          </div>
-        </div>
       </section>
     </div>
   );
